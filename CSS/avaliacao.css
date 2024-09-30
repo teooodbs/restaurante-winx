@@ -1,0 +1,63 @@
+header {
+  font-family: "Baskervville", serif;
+  font-weight: 400;
+  font-style: normal;
+  position: fluid;
+}
+
+
+body {
+  margin: 0;
+  background-color: #f8f9fa;
+
+
+
+}
+
+header {
+  font-family: "Baskervville", serif;
+  display: flex;
+  margin-left: 50px;
+  margin-right: 50px;
+  padding: 20px;
+  
+
+
+}
+
+nav {
+  padding: 10px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+nav a {
+  margin: 0 15px;
+  color: rgb(0, 0, 0);
+  border-left-width: 10px;
+}
+
+
+h1 {
+  margin-bottom: 100px;
+  padding-top: 30px;
+  height: auto;
+  font-size: 34px;
+  color: #171750;
+ 
+
+
+}
+h2{
+  margin-bottom: 50px; 
+  padding-top: 30px;   
+  font-family: "Baskervville", serif;
+  color: #171750;
+}
+
+hr {
+  border-color: #000000;
+  size: 30px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
